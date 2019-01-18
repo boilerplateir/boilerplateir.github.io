@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/room_booking.b9464550.svg"
   },
   {
-    "revision": "35a1f8128c7999623ba6",
-    "url": "/static/css/main.aa654a53.chunk.css"
+    "revision": "fd0c92d5e90b32927127",
+    "url": "/static/css/main.4f00a7df.chunk.css"
   },
   {
     "revision": "4fe0dea37dd817e16a72",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/dash.2a2bf549.svg"
   },
   {
-    "revision": "35a1f8128c7999623ba6",
-    "url": "/static/js/main.35a1f812.chunk.js"
+    "revision": "fd0c92d5e90b32927127",
+    "url": "/static/js/main.fd0c92d5.chunk.js"
   },
   {
     "revision": "5ebb778ee90864a7cfc6d7095840a6cb",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/add-image_icon.5c44d650.svg"
   },
   {
-    "revision": "0cfa6b5ed7c339175dbd080667968131",
+    "revision": "8885cc849e1061df22153811e26ce517",
     "url": "/index.html"
   }
 ];
