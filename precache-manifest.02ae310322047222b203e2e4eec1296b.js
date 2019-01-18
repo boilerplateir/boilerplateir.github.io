@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/room_booking.b9464550.svg"
   },
   {
-    "revision": "fd0c92d5e90b32927127",
+    "revision": "ef535bf0eee96d434789",
     "url": "/static/css/main.4f00a7df.chunk.css"
   },
   {
-    "revision": "4fe0dea37dd817e16a72",
-    "url": "/static/js/1.4fe0dea3.chunk.js"
+    "revision": "04372c2f209a11ba6a05",
+    "url": "/static/js/1.04372c2f.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/dash.2a2bf549.svg"
   },
   {
-    "revision": "fd0c92d5e90b32927127",
-    "url": "/static/js/main.fd0c92d5.chunk.js"
+    "revision": "ef535bf0eee96d434789",
+    "url": "/static/js/main.ef535bf0.chunk.js"
   },
   {
     "revision": "5ebb778ee90864a7cfc6d7095840a6cb",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/add-image_icon.5c44d650.svg"
   },
   {
-    "revision": "8885cc849e1061df22153811e26ce517",
+    "revision": "719d6b8bab5b17736051167b84b9c9c3",
     "url": "/index.html"
   }
 ];
