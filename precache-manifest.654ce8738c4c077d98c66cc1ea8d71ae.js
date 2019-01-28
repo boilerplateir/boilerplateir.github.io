@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "b9464550e5ebca97d9e3a6b204742e95",
-    "url": "/static/media/room_booking.b9464550.svg"
+    "revision": "2a2bf5496443289629a3cf54dc27d5e0",
+    "url": "/static/media/dash.2a2bf549.svg"
   },
   {
-    "revision": "ef535bf0eee96d434789",
-    "url": "/static/css/main.4f00a7df.chunk.css"
+    "revision": "a8c445dbb6abb43fae01",
+    "url": "/static/css/main.06d6c022.chunk.css"
   },
   {
-    "revision": "04372c2f209a11ba6a05",
-    "url": "/static/js/1.04372c2f.chunk.js"
+    "revision": "5c44d65021257eb6658c8394f682226a",
+    "url": "/static/media/add-image_icon.5c44d650.svg"
+  },
+  {
+    "revision": "26bfb88255a61642452c",
+    "url": "/static/js/1.26bfb882.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -32,12 +36,12 @@ self.__precacheManifest = [
     "url": "/static/media/icon_logout.4270b83a.svg"
   },
   {
-    "revision": "2a2bf5496443289629a3cf54dc27d5e0",
-    "url": "/static/media/dash.2a2bf549.svg"
+    "revision": "a8c445dbb6abb43fae01",
+    "url": "/static/js/main.a8c445db.chunk.js"
   },
   {
-    "revision": "ef535bf0eee96d434789",
-    "url": "/static/js/main.ef535bf0.chunk.js"
+    "revision": "b9464550e5ebca97d9e3a6b204742e95",
+    "url": "/static/media/room_booking.b9464550.svg"
   },
   {
     "revision": "5ebb778ee90864a7cfc6d7095840a6cb",
@@ -64,11 +68,11 @@ self.__precacheManifest = [
     "url": "/static/media/search.55830e1f.svg"
   },
   {
-    "revision": "5c44d65021257eb6658c8394f682226a",
-    "url": "/static/media/add-image_icon.5c44d650.svg"
+    "revision": "26bfb88255a61642452c",
+    "url": "/static/css/1.defa304f.chunk.css"
   },
   {
-    "revision": "719d6b8bab5b17736051167b84b9c9c3",
+    "revision": "4e4d46060521cc5f99f7a558b737ab65",
     "url": "/index.html"
   }
 ];
